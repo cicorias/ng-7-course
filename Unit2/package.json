@@ -1,0 +1,15 @@
+{
+  "name": "Unit2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson2.2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shawn Cicoria <github@cicoria.com> (https://cicoria.com)",
+  "license": "ISC",
+  "dependencies": {
+    "xstate": "^4.6.7"
+  }
+}
